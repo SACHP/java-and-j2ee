@@ -27,11 +27,7 @@
 			<artifactId>hibernate-core</artifactId>
 			<version>4.3.9.Final</version>
 		</dependency>
-		<dependency>
-			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc7</artifactId>
-			<version>12.2.0.1</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
